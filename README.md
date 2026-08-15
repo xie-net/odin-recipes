@@ -21,4 +21,4 @@ it wasn't bad at all. vs code basically helps skip having to repeatedly type out
 
 I understood everything and I think the mini project turned out pretty decent. I did use all of the above except for svg and png images. 
 
-I did not need to use encoding for special characters either. didnt feel bold or italic was need.
+I did not need to use encoding for special characters either. Didnt feel bold or italic was need.
